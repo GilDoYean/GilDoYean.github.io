@@ -551,11 +551,11 @@ body {
 .wide {
   .page, .page__related {
     @include breakpoint($large) {
-      padding-inline-end: 0;
+      # padding-inline-end: 0;
     }
 
     @include breakpoint($x-large) {
-      padding-inline-end: 0;
+      # padding-inline-end: 0;
     }
   }
 }
