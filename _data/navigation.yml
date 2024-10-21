@@ -2,6 +2,10 @@
 main:
   - title: "Archive"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "Tag"
+    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "Category"
+    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
