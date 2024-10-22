@@ -24,9 +24,9 @@ published                : true
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "KelionG."
 description              : "개발 공부를 하며 학습한 정보들을 기록하는 공간입니다."
-url                      : "https://keliong.blog"
+url                      : "https://GilDoYean.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "GilDoYean/keliong.blog"
+repository               : "GilDoYean/GilDoYean.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
